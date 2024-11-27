@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d3487798-17d5-4ea2-b2be-367cff902b85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tour Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeachCleanup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeachGameScores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CafeMenuProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectSeashells.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeedbackProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForecastProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupPhoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ItineraryProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SouvenirShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TourExpenseCalculator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2pPlXQhhuiD4ebcFyzZK9Jl2pam" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/Java Program/Tour Assignment/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3487798-17d5-4ea2-b2be-367cff902b85" name="Changes" comment="" />
+      <created>1732675630993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732675630993</updated>
+    </task>
+    <servers />
+  </component>
+</project>
